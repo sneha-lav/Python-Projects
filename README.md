@@ -94,6 +94,10 @@ Navigate to any project folder and follow the instructions provided in its respe
 
 B.Tech Computer Science Student | Aspiring Software Engineer
 
+## Acknowledgements
+
+This repository documents my Python learning journey through a series of projects inspired by Tech With Tim's "21 Python Projects" tutorial. The implementations, documentation, and future improvements reflect my own practice and understanding as I continue to learn.
+
 ---
 
 *This repository is continuously updated as I build and document new Python projects.*
