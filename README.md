@@ -10,7 +10,7 @@ Each project is organized into its own directory with source code, documentation
 
 | # | Project | Difficulty | Status | Topics | Link |
 |:-:|---------|:----------:|:------:|--------|------|
-| 01 | Quiz Game | 🟢 Easy | ⏳ Planned | Variables, Loops, Functions | [Open Project](./01-Quiz-Game/) |
+| 01 | Quiz Game | 🟢 Easy | 🟢 Completed | Variables, Loops, Functions | [Open Project](./01-Quiz-Game/) |
 | 02 | Number Guessing Game | 🟢 Easy | ⏳ Planned | Random, Loops | [Open Project](./02-Number-Guessing-Game/) |
 | 03 | Rock Paper Scissors | 🟢 Easy | ⏳ Planned | Functions, Random | [Open Project](./03-Rock-Paper-Scissors/) |
 | 04 | Choose Your Own Adventure | 🟢 Easy | ⏳ Planned | Conditionals, User Input | [Open Project](./04-Choose-Your-Own-Adventure/) |
@@ -70,7 +70,7 @@ python-projects/
 
 ## Progress
 
-- ✅ Completed: 0 / 21
+- ✅ Completed: 1 / 21
 - 🚧 In Progress: 0 / 21
 - ⏳ Planned: 21 / 21
 
